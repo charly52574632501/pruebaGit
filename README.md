@@ -1,2 +1,2 @@
 # pruebaGit
-Creado Para realizar pruebas de funcionamiento desde consola
+I am editing the README file. Adding some more details about the project descr
